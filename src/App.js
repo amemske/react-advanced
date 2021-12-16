@@ -1,5 +1,5 @@
-import React from 'react';
-import Setup from './tutorial/conditionalRendering/ShowHide';
+import React, { useState } from 'react';
+import Setup from './tutorial/useReducer/UseReducerVersion';
 
 function App() {
   return (
